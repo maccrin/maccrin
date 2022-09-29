@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Madhumita 
+- 👀 I’m interested in making new friends 
+- 🌱 I’m currently learning html/css/js
+- 💞️ I’m looking to collaborate on web development project.
+- You can ask me anything a d reach me at maccrin@gmail.com. 
