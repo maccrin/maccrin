@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Madhumita 
-- 👀 I’m interested in making new friends 
-- 🌱 I’m currently learning html/css/js
-- 💞️ I’m looking to collaborate on web development project.
-- You can ask me anything a d reach me at maccrin@gmail.com. 
+- 👀 I’m interested in learning js and how backend development works.
+- 🌱 I’m currently trying to learn Javascript.
+- You can ask me anything as if i dont know the answer Google is there  :).
