@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Madhumita an IT professional from India.
 - 👀 I’m interested in learning js and how backend development works.
 - 🌱 I’m currently trying to learn Javascript.
-- You can ask me anything as if I dont know the answer Google is there  :).
+- You can ask me anything as if I dont know  Google is there to answer :).
