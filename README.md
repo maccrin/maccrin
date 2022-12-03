@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Madhumita an IT professional from India.
-- 👀 I’m interested in learning js and how backend development works.
-- 🌱 I’m currently trying to learn Javascript.
+- 👋 Hi, This is  Madhumita an IT professional from India currently living in Copenhagen.
+- 🌱 I am learning to solve problems through javascript language.
 -
