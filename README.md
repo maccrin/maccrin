@@ -1,3 +1,7 @@
 - 👋 Hi, This is  Madhumita an IT professional from India currently living in Copenhagen.
-- 🌱 I am learning to solve problems through javascript language.
+- At Present a student of Hack Your Future in Copenhagen.
+- I did my bathcelor degree in  Mathematics  (which is my favourite subject) and did my Master in Computer Application.
+- I like to do coding, currently learning to solve problems through javascript language.
+-  I am open for any collaboration related to JS where I can grow and learn further as an individual as well as a team member.
+-  You can reach me @maccrin@gmail.com.
 -
