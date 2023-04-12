@@ -1,4 +1,7 @@
   ![Codewars](https://www.codewars.com/users/maccrin/badges/micro)
+  
 -👋 Hi, This is  Madhumita an IT professional from India currently living in Copenhagen.
- -I am open for any collaboration related to JS  and React Js where I can grow and learn further as an individual as well as and a team member.
--You can reach me @maccrin@gmail.com
+
+ -Motivated Full Stack Developer   having 8 years of IT industry experience encompassing a wide range of skill set and roles in a large corporate environment.
+ 
+-You can reach me at @maccrin@gmail.com
