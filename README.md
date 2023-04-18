@@ -5,4 +5,4 @@
  
     I like to code , currently trying to solve coding challenges through JS/React Js and also  looking for colleboration on these.
  
-    Aprt from this I like travelling,reading and making new friends ,you can reach me at maccrin@gmial.com .
+    Apart from this I like travelling,reading and making new friends ,you can reach me at maccrin@gmial.com .
