@@ -1,5 +1,4 @@
-  ![Codewars](https://www.codewars.com/users/maccrin/badges/micro)
-  
+    ![Codewars](https://www.codewars.com/users/maccrin/badges/micro)
    👋 Hi, I am  an IT professional from India and now  living in Copenhagen.
 
     A motivated Full Stack Developer  having  8 years of IT industry experience encompassing a wide range of skill set and roles in a large corporate environment.
