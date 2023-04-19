@@ -5,4 +5,4 @@
  
     I like  coding , currently trying to solve coding challenges through JS/React Js and also  looking for colleboration on these.
  
-    You can reach me at  <a href="mailto:maccrin@gmail.com?"></a> .
+    You can reach me at  <a href="mailto:maccrin@gmail.com"></a> .
