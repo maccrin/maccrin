@@ -5,6 +5,6 @@
  
     I like  coding , currently trying to solve coding challenges through JS/React Js and also  looking for colleboration on these.
  
-    You can reach me at 
+    You can reach me at  <a href="mailto:maccrin@gmail.com" targetget="_blank"><img align="left" src="https://www.codewars.com/users/maccrin/badges/small" /></a>
     
     ![My Work Experience and  educational BackGround](https://www.linkedin.com/in/webdevelopmentmadhumita/)
