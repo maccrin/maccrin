@@ -3,9 +3,9 @@
    
    
    
-   👋 Hi, Here is Madhumita an Software Engineer from India currently living in Copenhagen.
-    A motivated Full Stack Developer  having  8 years of IT industry experience encompassing a wide range of skill set and roles in a large corporate environment.
-    I like  coding , currently trying to solve coding challenges through JS/ReactJs and looking for colleboration on these.
+   👋 Hi, Here is Madhumita a software engineer from India currently living in Copenhagen.
+    A motivated full stack developer  having  8 years IT  experience, encompassing a wide range of skill set and roles in a large corporate environment.
+    I like  coding , currently trying to solve coding challenges in JS/ReactJs and looking for colleboration on these.
     
    
   
@@ -15,7 +15,7 @@
   
   
   
-  Professional Details:
+  Experience Details:
   
   [![My Professional Details](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/webdevelopmentmadhumita/)
    
