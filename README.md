@@ -28,8 +28,7 @@
     
                                                                
                                                                
-                                                               
-                                                              
+<p align="center"><em>Current Skills</em></p>                                                     
    <p align="center">
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,c,cpp,mysql,postman&theme=light&perline=4" />
