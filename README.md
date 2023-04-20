@@ -15,16 +15,16 @@
   
   
   
-  Experience Details:
+  <p><strong>Experience Details:</strong></p>
   
   [![My Professional Details](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/webdevelopmentmadhumita/)
    
    
   
-  Connet Me: 
  
  
- <a href="mailto:maccrin@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:maccrin@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>        [maccrin@gmail.com](mailto:maccrin@gmail.com)
+
     
                                                                
                                                                
