@@ -1,7 +1,7 @@
 <a href="https://www.codewars.com/users/maccrin" target="_blank"><img align="left" src="https://www.codewars.com/users/maccrin/badges/small" /></a>
 
 
-<h3 align="center"><em>Hi, Here is Madhumita a software engineer from India currently living in Copenhagen. A motivated full stack developer having 8 years IT experience, encompassing a wide range of skill set and roles in a large corporate environment. I like coding , currently trying to solve coding challenges in JS/ReactJs and looking for collaboration on these.</em></h3>
+<p align="center"><em>Hi, Here is Madhumita a software engineer from India currently living in Copenhagen. A motivated full stack developer having 8 years IT experience, encompassing a wide range of skill set and roles in a large corporate environment. I like coding , currently trying to solve coding challenges in JS/ReactJs and looking for collaboration on these.</em></p>
 
 - 📫 How to reach me **maccrin@gmail.com**
 
