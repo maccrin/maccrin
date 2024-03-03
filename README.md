@@ -1,5 +1,5 @@
 
-<p align="left"><em>Hi,This is Madhumita a software engineer from India and pursuing full stack development graduation course from Hack Your Future,Copenhagen. Having eight years of  software developemnt and support experience in IBM and encompassing a wide range of skill set. I have passion for coding  and currently trying to explore my coding skill in JS and React JS.</em></p>
+<p align="left"><em>Hi,This is Madhumita a software engineer from India and pursuing full stack development graduation course from Hack Your Future,Copenhagen. Having eight years of  software developemnt and support experience in IBM and encompassing a wide range of skill set. I have passion for coding  and currently trying to explore my coding skills as a full stack developer.</em></p>
 
 - 📫 You can reach me to **maccrin@gmail.com**
 
