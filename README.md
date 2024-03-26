@@ -1,5 +1,5 @@
 
-<p align="left"><em>Hi,This is Madhumita a software engineer from India and a full stack development intern with passion new technologies and languages. Having eight years of  software developemnt and support experience in IBM and encompassing a wide range of skill set. I have passion for coding  and currently trying to explore my coding skills as a full stack developer.</em></p>
+<p align="left"><em>Hi,This is Madhumita a software engineer from India and a full stack development intern with passion for new technologies and languages. Having eight years of  software developemnt and support experience in IBM and encompassing a wide range of skill set,I have passion for coding  and currently trying to explore my coding skills as a full stack developer.</em></p>
 
 - 📫 You can reach me to **maccrin@gmail.com**
 
