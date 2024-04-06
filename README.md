@@ -11,7 +11,7 @@
  - <p align="left"><em>Current Skills</em></p>                                                     
    <p align="left">
    <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,react,nodejs,sequelize,mui,c,mysql,aws,html,postman&theme=light&perline=4" />
+   <img src="https://skillicons.dev/icons?i=js,react,nodejs,sequelize,mui,c,mysql,mongodb,aws,html,postman&theme=light&perline=4" />
   </a>
 
  - <a href="https://www.codewars.com/users/maccrin" target="_blank"><img align="left" src="https://www.codewars.com/users/maccrin/badges/small" />
