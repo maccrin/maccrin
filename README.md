@@ -1,5 +1,5 @@
 
-<p align="left">Hi, I’m Madhu, With eight years of experience in software development and support at IBM, I bring a broad range of skills to the table. I’m passionate about coding and currently exploring and enhancing my skills as a back end developer.</p>
+<p align="left">Hi,This is Madhu,Programming is my passion, and as a mathematics enthusiast, I thrive on challenges and enjoy solving complex problems. My career spans diverse technologies and languages, and over the past year I have quickly mastered multiple frameworks,demonstrating adaptability. As a lifelong learner with a customer-focused mindset, I actively seek opportunities to push my boundaries, driving both personal and professional growth through innovation and success.</p>
 
 - 📫 You can reach me to **maccrin@gmail.com**
 
