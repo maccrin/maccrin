@@ -1,5 +1,5 @@
 
-<p align="left">Hi, I’m Madhu ,a software engineer from India and currently a full stack development intern with a passion for new technologies and programming languages. With eight years of experience in software development and support at IBM, I bring a broad range of skills to the table. I’m passionate about coding and am currently exploring and enhancing my skills as a back end developer.</p>
+<p align="left">Hi, I’m Madhu, With eight years of experience in software development and support at IBM, I bring a broad range of skills to the table. I’m passionate about coding and currently exploring and enhancing my skills as a back end developer.</p>
 
 - 📫 You can reach me to **maccrin@gmail.com**
 
